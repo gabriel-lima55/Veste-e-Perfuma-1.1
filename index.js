@@ -12,3 +12,5 @@ class Person {
 
 const thatGuy = new Person('Gabriel', 'Engenheiro de Software');
 thatGuy.print();
+const thatGuy2 = new Person('Gabriel2', 'Engenheiro de Software2');
+thatGuy2.print();
