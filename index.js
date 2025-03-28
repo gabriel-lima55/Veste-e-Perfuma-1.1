@@ -10,5 +10,5 @@ class Person {
   }
 }
 
-const thatGuy = new Person('John Doe', 'Software Engineer');
+const thatGuy = new Person('Gabriel', 'Engenheiro de Software');
 thatGuy.print();
