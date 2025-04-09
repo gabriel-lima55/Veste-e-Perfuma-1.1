@@ -1,15 +1,18 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "hello everyone",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^22.13.11"
+    "@types/node": "^22.13.11",
+    "express": "^5.1.0",
+    "firebase": "^11.5.0",
+    "sqlite3": "^5.1.7"
   }
 }
