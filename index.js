@@ -13,3 +13,4 @@ class Person {
 const usuario = new Person('Lerineide', 'Revendedora');
 usuario.print();
 
+
